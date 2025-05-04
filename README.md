@@ -6,7 +6,7 @@ Vitajte! Toto je interaktívna webová aplikácia internetového obchodu, ktorá
 - Aplikácia umožňuje používateľovi prihlásiť sa (alebo sa zaregistrovať) a zobraziť zoznam produktov.
 - Všetky údaje sa načítajú z rozhrania **Fake Store API**.
 - Operácie s nákupným košíkom nie sú **implementované**, ako je uvedené v úlohe.
-- Hlavný dôraz sa kladie na UX, branding a prispôsobiteľnosť pre mobilné zariadenia.
+- Hlavný dôraz sa kladie na UX a UI, branding a prispôsobiteľnosť pre mobilné zariadenia.
 
 
 ## ## Spustenie projektu lokálne
