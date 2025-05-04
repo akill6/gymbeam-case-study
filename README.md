@@ -14,16 +14,19 @@ Vitajte! Toto je interaktívna webová aplikácia internetového obchodu, ktorá
 ```bash
 git clone https://github.com/your-username/gymbeam-case-study.git
 cd gymbeam-case-study
-
+```
 
 ### 2. Inštalácia závislostí
 ```bash
 npm install
+```
 
 ### 3. Spustenie vývojového servera
 ```bash
 npm run dev
+```
 
 ### 4. Otvorte aplikáciu
 ```bash
 http://localhost:3000
+```
